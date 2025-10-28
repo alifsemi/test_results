@@ -9,11 +9,10 @@
 **Flashing**
 ----------------
 [![Alif B1 Flash](test_results/Alif_B1_Flash_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
-[![Alif_B1 Throughtput Flash](test_results/Alif_B1_Throughtput_Flash_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
+[![Alif B1 Throughtput Build](test_results/Alif_B1_Throughtput_Flash_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
 ----------------
 **Tests**
 ----------------
 [![Smoke Tests](test_results/smoketest_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
 [![Throughtput Tests](test_results/Alif_B1_Throughtput_Tests_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
-
 
