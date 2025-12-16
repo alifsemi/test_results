@@ -15,5 +15,4 @@
 ----------------
 [![Smoke Tests](test_results/smoketest_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
 [![Throughtput Tests](test_results/Alif_B1_Throughtput_Tests_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
-[![Functional Tests](test_results/Alif_B1_Functional_Tests_result.svg)](https://github.com/AlifSemiDev/jenkins_automation/tree/test_results)
 
